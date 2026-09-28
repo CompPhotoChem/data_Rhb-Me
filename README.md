@@ -2,9 +2,9 @@
 
 ## Minimum geometries 
 
-XYZ coordinate files for simplified Rhodamine B (Rhb-Me) dye adopting different minima in two different electronic states.
+XYZ coordinate files for simplified Rhodamine B (Rhb-Me, see below) dye adopting different minima in two different electronic states.
 
-<img src="structures.png" alt="Structures" width="600">
+<img src="RhB-Me_structure.png" alt="Structure of RhB-Me." width="300">
 
 ### Ground-state (S0) geometries
 The ground-state structures were optimized using MP2- (@MP2) or CAM-B3LYP/def2-SVP (@DFT) in gas phase.
