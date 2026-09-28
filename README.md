@@ -15,8 +15,31 @@ The ground-state structures were optimized using MP2- (@MP2) or CAM-B3LYP/def2-S
 The geometries in the first electronically excited singlet state (S1) were optimized at TD-DFT 
 (TD-CAM-B3LYP, @TD-DFT) or ADC(2) level (@ADC) of theory employing the def2-SVP basis set in gas phase.
 
-- locally excited state minima (conformer 1-3, non twisted geometries) | @TD-DFT and @ADC
-- twisted intramolecular charge transfer minima (conformer 1-3) | @TD-DFT and @ADC
+#### ADC(2)
+
+- locally excited state minima (
+![Rhb-Me0](https://github.com/CompPhotoChem/data_Rhb-Me/blob/main/minima/S1/opt_adc2_S1-LE_Rhb-Me0.xyz), 
+![Rhb-Me1](https://github.com/CompPhotoChem/data_Rhb-Me/blob/main/minima/S1/opt_adc2_S1-LE_Rhb-Me1.xyz), 
+![Rhb-Me2](https://github.com/CompPhotoChem/data_Rhb-Me/blob/main/minima/S1/opt_adc2_S1-LE_Rhb-Me2.xyz)
+)
+- twisted intramolecular charge transfer minima (
+![Rhb-Me0](https://github.com/CompPhotoChem/data_Rhb-Me/blob/main/minima/S1/opt_adc2_S1-TICT_Rhb-Me0.xyz), 
+![Rhb-Me1](https://github.com/CompPhotoChem/data_Rhb-Me/blob/main/minima/S1/opt_adc2_S1-TICT_Rhb-Me1.xyz), 
+![Rhb-Me2](https://github.com/CompPhotoChem/data_Rhb-Me/blob/main/minima/S1/opt_adc2_S1-TICT_Rhb-Me2.xyz)
+)
+
+#### TD-DFT
+
+- locally excited state minima (
+![Rhb-Me0](https://github.com/CompPhotoChem/data_Rhb-Me/blob/main/minima/S1/opt_tddft_S1-LE_Rhb-Me0.xyz), 
+![Rhb-Me1](https://github.com/CompPhotoChem/data_Rhb-Me/blob/main/minima/S1/opt_tddft_S1-LE_Rhb-Me1.xyz), 
+![Rhb-Me2](https://github.com/CompPhotoChem/data_Rhb-Me/blob/main/minima/S1/opt_tddft_S1-LE_Rhb-Me2.xyz)
+)
+- twisted intramolecular charge transfer minima (
+![Rhb-Me0](https://github.com/CompPhotoChem/data_Rhb-Me/blob/main/minima/S1/opt_tddft_S1-TICT_Rhb-Me0.xyz), 
+![Rhb-Me1](https://github.com/CompPhotoChem/data_Rhb-Me/blob/main/minima/S1/opt_tddft_S1-TICT_Rhb-Me1.xyz), 
+![Rhb-Me2](https://github.com/CompPhotoChem/data_Rhb-Me/blob/main/minima/S1/opt_tddft_S1-TICT_Rhb-Me2.xyz)
+)
 
 ## Relaxed Surface Scans
 
