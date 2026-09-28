@@ -12,7 +12,7 @@ The ground-state structures were optimized using MP2- (@MP2) or CAM-B3LYP/def2-S
 - conformer 1 -3 (non twisted geometries)
 
 ### Excited-state geometries
-The geometries in the first electronically excited singlet state (S1) were optimized at TD-DFT 
+The geometries in the first electronically excited singlet state (S1) were optimized for three distinct conformers (Rhb-Me0, Rhb-Me1 and Rhb-Me2) at TD-DFT 
 (TD-CAM-B3LYP, @TD-DFT) or ADC(2) level (@ADC) of theory employing the def2-SVP basis set in gas phase.
 
 #### ADC(2)
