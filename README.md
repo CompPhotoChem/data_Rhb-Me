@@ -58,4 +58,4 @@ The respective TD-DFT and ADC(2)-level energies are reported in the comment line
 
 ---
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19086195.svg)](https://doi.org/10.5281/zenodo.19086195)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23023226.svg)](https://doi.org/10.5281/zenodo.23023226)
